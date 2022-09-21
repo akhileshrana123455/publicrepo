@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 welcome to ttn
 
 ahgjcmm
@@ -10,8 +9,3 @@ welcome
 =======
 welcome
 >>>>>>> parent of afac12e... fourth commit
-=======
-welcome to ttn
-
-ahgjcmm
->>>>>>> parent of d9038d8... sixth commit
